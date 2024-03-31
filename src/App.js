@@ -1,7 +1,7 @@
-import logo from './logo.svg';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import { Col, Row } from "react-bootstrap";
+import Login from "./Login";
 
 function App() {
   return (
